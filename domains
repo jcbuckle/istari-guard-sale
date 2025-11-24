@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Istari Guard Bundle | Premium Domain Portfolio</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Custom Tailwind Configuration for Themed Colors -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'istari-dark': '#0f172a', // Dark Slate Blue
+                        'istari-accent': '#10b981', // Emerald Green (Protection/Security)
+                        'istari-light': '#f1f5f9', // Light Slate
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Optional: Smooth scrolling for navigation */
+        html { scroll-behavior: smooth; }
+    </style>
+</head>
+<body class="bg-istari-dark text-istari-light font-sans antialiased">
+
+    <!-- Header & Navigation -->
+    <header class="p-4 bg-istari-dark/90 shadow-lg sticky top-0 z-10 border-b border-istari-accent/20">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-istari-accent tracking-wider">ISTARI GUARD</h1>
+            <nav>
+                <a href="#pitch" class="mx-3 text-sm hover:text-istari-accent transition duration-300">The Pitch</a>
+                <a href="#domains" class="mx-3 text-sm hover:text-istari-accent transition duration-300">Domains</a>
+                <a href="#pricing" class="mx-3 text-sm font-semibold py-1 px-3 rounded-full bg-istari-accent text-istari-dark hover:bg-emerald-400 transition duration-300">BUY NOW</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 1. Hero Section -->
+    <section id="hero" class="relative overflow-hidden pt-24 pb-32 md:pt-40 md:pb-48 text-center">
+        <!-- Background/Aesthetic Detail (Subtle Hexagon Pattern or texture) -->
+        <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-color-istari-dark)_30%,_var(--tw-color-slate-900))] opacity-90"></div>
+        
+        <div class="relative z-10 max-w-4xl mx-auto px-4">
+            <h2 class="text-5xl md:text-7xl font-extrabold mb-4 leading-tight">
+                <span class="text-istari-light">THE ISTARI GUARD</span>
+                <span class="text-istari-accent block mt-2">PREMIUM DOMAIN BUNDLE</span>
+            </h2>
+            <p class="text-xl md:text-2xl text-istari-light/70 mb-10 max-w-3xl mx-auto">
+                Four strategic domains securing a complete digital brand identity for a next-generation security or privacy company.
+            </p>
+            
+            <!-- Call to Action Button -->
+            <a href="#pricing" class="inline-block px-10 py-4 text-2xl font-bold text-istari-dark bg-istari-accent rounded-xl shadow-2xl hover:bg-emerald-400 transition transform hover:scale-105 duration-300 ring-4 ring-istari-accent/50">
+                BUNDLE BUY NOW: $19,999 USD
+            </a>
+            <p class="mt-4 text-sm text-istari-light/50">Secure the entire portfolio in one transaction via secure Escrow.</p>
+        </div>
+    </section>
+
+    <!-- 2. The Narrative Pitch -->
+    <section id="pitch" class="py-16 md:py-24 bg-slate-900">
+        <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
+            <div class="md:col-span-1">
+                <h3 class="text-4xl font-bold text-istari-accent mb-6 border-l-4 border-istari-accent pl-4">
+                    The Ultimate Marketing Conflict
+                </h3>
+                <p class="text-istari-light text-lg mb-6">
+                    This isn't just a domain purchase; it's the acquisition of a powerful, ready-made marketing campaign centered on a universal conflict: **Protection vs. Surveillance.**
+                </p>
+                <p class="text-istari-light/80 mb-6">
+                    **The names are the four primary aliases of Gandalf (Mithrandir, Olórin, Tharkûn, Incánus). Gandalf is one of the Istari (Wizards)—the protectors sent to guard against corruption.** This positions your brand as the **moral, wise, and trusted counterpoint** to the controversial, data-driven surveillance ethos of companies like Palantir Technologies.
+                </p>
+                <ul class="space-y-3 text-istari-light/90">
+                    <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-istari-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.048A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg> **Guaranteed PR Hook:** The narrative is instantly viral and media-friendly.</li>
+                    <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-istari-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg> **Unmatched Brand Depth:** Names that convey history, trust, and gravitas.</li>
+                    <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-istari-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.477 3-10S13.657 3 12 3s-3 4.477-3 10S10.343 21 12 21z"></path></svg> **4x Multi-Product Strategy:** A name for every core service or initiative.</li>
+                </ul>
+            </div>
+             <div class="md:col-span-1 flex justify-center">
+                <!-- Placeholder Image/SVG for Conceptual branding -->
+                <div class="w-full max-w-sm h-64 bg-istari-dark/70 rounded-xl p-6 shadow-2xl border border-istari-accent/50 flex flex-col justify-center items-center text-center">
+                    <svg class="w-20 h-20 text-istari-accent mb-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2M18 10l-4 4-2-2m0 0l-4 4M18 10h.01M10 10h.01M16 16h.01M16 16v-6" />
+                        <path d="M14 10h2V8h-2v2zM10 14h2v-2h-2v2zM18 18h2v-2h-2v2z" />
+                    </svg>
+                    <p class="text-xl font-semibold">"Don't trust the Scrying Stone, trust The Istari Guard."</p>
+                    <p class="text-sm text-istari-light/60 mt-2">Acquire the opposition narrative.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Domain Breakdown -->
+    <section id="domains" class="py-16 md:py-24">
+        <div class="max-w-7xl mx-auto px-4">
+            <h3 class="text-center text-4xl font-bold text-istari-light mb-12">The 4-Domain Product Map</h3>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+
+                <!-- Domain Card 1: Mithrandir.world -->
+                <div class="bg-slate-800 p-6 rounded-xl shadow-xl hover:shadow-istari-accent/50 transition duration-300 border-t-4 border-istari-accent">
+                    <div class="text-3xl font-mono text-istari-accent mb-3">Mithrandir.world</div>
+                    <p class="text-sm font-semibold text-istari-light/70 mb-2">Flagship Brand & Global Presence</p>
+                    <p class="text-istari-light/90">The primary, most recognized name. Perfect for the core, multi-feature **VPN or Secure Hosting Service** that targets a global user base.</p>
+                </div>
+
+                <!-- Domain Card 2: Olorin.shop -->
+                <div class="bg-slate-800 p-6 rounded-xl shadow-xl hover:shadow-istari-accent/50 transition duration-300 border-t-4 border-istari-accent">
+                    <div class="text-3xl font-mono text-istari-accent mb-3">Olorin.shop</div>
+                    <p class="text-sm font-semibold text-istari-light/70 mb-2">E-Commerce & Premium Services</p>
+                    <p class="text-istari-light/90">Designed for monetization. Ideal for selling **encrypted hardware, merchandise,** or handling premium subscription renewals and checkout flows.</p>
+                </div>
+
+                <!-- Domain Card 3: Tharkun.net -->
+                <div class="bg-slate-800 p-6 rounded-xl shadow-xl hover:shadow-istari-accent/50 transition duration-300 border-t-4 border-istari-accent">
+                    <div class="text-3xl font-mono text-istari-accent mb-3">Tharkun.net</div>
+                    <p class="text-sm font-semibold text-istari-light/70 mb-2">Technical & Infrastructure Hub</p>
+                    <p class="text-istari-light/90">Used for technical communications: **Developer APIs, white papers, community forums,** or the network status and infrastructure backend.</p>
+                </div>
+
+                <!-- Domain Card 4: Incanus.org -->
+                <div class="bg-slate-800 p-6 rounded-xl shadow-xl hover:shadow-istari-accent/50 transition duration-300 border-t-4 border-istari-accent">
+                    <div class="text-3xl font-mono text-istari-accent mb-3">Incanus.org</div>
+                    <p class="text-sm font-semibold text-istari-light/70 mb-2">Advocacy & Foundation</p>
+                    <p class="text-istari-light/90">Perfect for the company's non-profit arm, **privacy policy advocacy,** consumer education, or CSR initiatives to build public trust.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. Pricing & Contact Section -->
+    <section id="pricing" class="py-20 md:py-32 bg-istari-dark/80">
+        <div class="max-w-4xl mx-auto px-4 text-center">
+            <h3 class="text-4xl md:text-5xl font-extrabold text-istari-light mb-6">
+                Acquire The Istari Guard Bundle Today
+            </h3>
+            <p class="text-xl text-istari-light/80 mb-10">
+                This exclusive portfolio is priced for immediate acquisition by a security or tech venture ready for global branding.
+            </p>
+            
+            <div class="inline-block p-8 bg-slate-900 rounded-2xl shadow-2xl border-2 border-istari-accent">
+                <p class="text-3xl font-semibold text-istari-light/70 mb-2">TOTAL PACKAGE PRICE</p>
+                <p class="text-6xl md:text-8xl font-black text-istari-accent tracking-tighter">$19,999</p>
+                <p class="text-lg text-istari-light mt-3">All Four Domains Included (Fixed Buy Now)</p>
+            </div>
+
+            <div class="mt-12">
+                <p class="text-xl mb-4">Ready to secure your new brand?</p>
+                <!-- IMPORTANT: Remember to update this email address before deploying! -->
+                <a href="mailto:your.email@example.com?subject=Inquiry%20for%20Istari%20Guard%20Domain%20Bundle%20%28$19,999%29" 
+                   class="inline-block px-12 py-4 text-2xl font-bold text-istari-dark bg-istari-light rounded-xl shadow-lg hover:bg-white transition duration-300">
+                    Contact for Immediate Purchase
+                </a>
+                <p class="mt-6 text-sm text-istari-light/60">
+                    All transactions managed securely via Escrow.com or Sedo Escrow for buyer protection.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="p-6 bg-slate-900/50 text-center text-xs text-istari-light/50 border-t border-istari-accent/10">
+        &copy; 2025 Premium Domain Asset. All Rights Reserved.
+    </footer>
+
+</body>
+</html>
